@@ -220,12 +220,12 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {37125955,0,tonumber(our_id)},--Sudo users
+    sudo_users = {76458212,95876809,179983320},--Sudo users
     disabled_channels = {},
-    realm = {89481501},--Realms Id
+    realm = {95876809},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [tnx for seed team
-    and @Xx_ADMIN_DARKNESS_TM_xX],
+    and yagop],
     help_text = [[
 Commands list :
 
