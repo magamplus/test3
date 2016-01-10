@@ -223,9 +223,7 @@ function create_config( )
     sudo_users = {76458212,95876809,179983320},--Sudo users
     disabled_channels = {},
     realm = {95876809},--Realms Id
-    moderation = {data = 'data/moderation.json'},
-    about_text = [tnx for seed team
-    and yagop],
+    moderation = {data = 'data/moderation.json'}
     help_text = [[
 Commands list :
 
